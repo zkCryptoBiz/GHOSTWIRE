@@ -1,1 +1,0 @@
-chrome-extension://bfnaelmomeimhlpmgjnjophhpkkoljpa/btc.js
